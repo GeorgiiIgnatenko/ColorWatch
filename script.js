@@ -31,4 +31,4 @@ function changeColor() {
 }
 
 
-setInterval(hexoClock, 1000);
+setInterval(changeColor, 1000);
